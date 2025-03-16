@@ -1,0 +1,14 @@
+# Minimum environment for running the code.
+name: maxflow
+channels:
+  - conda-forge
+dependencies:
+  - ipython
+  - jupyterlab
+  - numpy
+  - networkx
+  - matplotlib
+  - python >=3.13
+  - pytest
+  - scipy
+prefix: /Users/olivne/opt/miniconda3/envs/maxflow
