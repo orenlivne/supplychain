@@ -1,7 +1,7 @@
-# Max Flow Solver Experiments
+# Supply Chain Optimization - Study
 
 ## Overview
-This repo contains some example notebooks to understand existing maximum flow solvers and test some initial ideas about new ones.
+This repo contains some example notebooks I've written while learning about supply chain math.
 
 ## 1. Installation
 1. Install the conda environment:
@@ -11,7 +11,7 @@ conda create env -f environment.yml
 ```
 2. Activate the environment:
 ```sh
-conda activate maxflow
+conda activate supplychain
 ```
 3. Run unit tests:
 ```sh

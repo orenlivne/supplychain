@@ -1,5 +1,5 @@
 # Minimum environment for running the code.
-name: maxflow
+name: supplychain
 channels:
   - conda-forge
 dependencies:
@@ -11,4 +11,4 @@ dependencies:
   - python >=3.13
   - pytest
   - scipy
-prefix: /Users/olivne/opt/miniconda3/envs/maxflow
+prefix: /Users/olivne/opt/miniconda3/envs/supplychain
